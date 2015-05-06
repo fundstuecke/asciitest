@@ -1,2 +1,0 @@
-# asciitest
-Test mit Asciidoc
